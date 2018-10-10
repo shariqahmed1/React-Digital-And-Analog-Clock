@@ -1,3 +1,8 @@
+
+<h1>Live View</h1>
+
+https://shariqahmed1.github.io/React-Digital-And-Analog-Clock/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
